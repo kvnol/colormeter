@@ -1,0 +1,27 @@
+{
+  "name": "colormeter",
+  "version": "0.0.0",
+  "description": "Calculate difference in percentage between 2 hex colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/colormeter.git"
+  },
+  "keywords": [
+    "hex",
+    "css"
+  ],
+  "author": "Kevin Oliveira <me@kevinoliveira.com.br> (http://kevinoliveira.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnol/colormeter/issues"
+  },
+  "homepage": "https://github.com/kvnol/colormeter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
